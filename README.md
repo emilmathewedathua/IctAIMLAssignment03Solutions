@@ -98,15 +98,3 @@ The model gives a reasonable prediction but the accuracy can be improved by usin
 * Matplotlib
 * Google Colab
 
-
-## Files in this Repository
-
-car-price-prediction
-│
-├── car_price_prediction.ipynb
-├── dataset.csv
-└── README.md
-
-## Note
-
-This project was done as part of my **AI/ML course assignment** to understand the process of building a machine learning model for prediction problems.
